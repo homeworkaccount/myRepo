@@ -30,8 +30,8 @@ class MatrixOfNumbers
                 Console.Write(matrix[row, col]);
             }
 
-            //Console.WriteLine(); testing testing testing 
-
+<<<<<<< .mine            Console.ReadLine(); //that doesn't make any sense
+=======            //Console.WriteLine(); testing testing testing 
         }
 
     }
