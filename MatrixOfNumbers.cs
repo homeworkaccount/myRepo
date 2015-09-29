@@ -30,7 +30,7 @@ class MatrixOfNumbers
                 Console.Write(matrix[row, col]);
             }
 
-            Console.WriteLine();
+            //Console.WriteLine(); testing testing testing 
 
         }
 
