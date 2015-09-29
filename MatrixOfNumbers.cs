@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 class MatrixOfNumbers
 {
+	//new line here
     static void Main()
     {
         int n = int.Parse(Console.ReadLine());
